@@ -1,0 +1,20 @@
+{
+  "block.forge.crackle": {
+    "subtitle": "modestmining.subtitles.forge.crackle",
+    "sounds": [
+      {
+        "name": "block.blastfurnace.fire_crackle",
+        "type": "event"
+      }
+    ]
+  },
+  "item.chisel.chiseling.generic": {
+    "subtitle": "modestmining.subtitles.item.chisel.chiseling.generic",
+    "sounds": [
+      {
+        "name": "item.brush.brushing.generic",
+        "type": "event"
+      }
+    ]
+  }
+}
